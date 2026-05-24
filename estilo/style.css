@@ -39,7 +39,7 @@ transition-timing-function: ease;
 }
 section#login> div#imagem{
     display: block;
-        background: #5f2c82 url(./img/predio.jpg) no-repeat center center;
+        background: #5f2c82 url(/img/predio.jpg) no-repeat center center;
         height: 200px;
         background-size: cover;
 
